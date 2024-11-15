@@ -1,0 +1,17 @@
+[
+    {
+        "id": "000001",
+        "packageType": "包裹",
+        "status": "未領"
+    },
+    {
+        "id": "000002",
+        "packageType": "信件",
+        "status": "已領"
+    },
+    {
+        "id": "000003",
+        "packageType": "包裹",
+        "status": "已領"
+    }
+]
