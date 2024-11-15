@@ -81,7 +81,8 @@ PM：19:30 ~ 22:30
 學生宿舍啟
 
 ![管理頁面範例](exampleB.png)
-## 目前有的檔案：
+
+## 範例檔案：
 ```students_info.json```
 ```json
 [
