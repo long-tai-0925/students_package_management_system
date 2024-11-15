@@ -31,7 +31,7 @@ HTML、JavaScript、Css、Json/MySQL、jsPDF
 顯示學生包裹資訊，方便學生查詢有沒有包裹，並前往領取，  
 若包裹狀態為已領取則隱藏。
 
-![學生頁面範例(未建立)](exampleA.png)=576
+![學生頁面範例(未建立)](exampleA.png)
 
 > ### 管理端
 ### 顯示資訊：
@@ -80,7 +80,7 @@ PM：19:30 ~ 22:30
 領取
 學生宿舍啟
 
-![管理頁面範例](exampleB.png =384*216)
+![管理頁面範例](exampleB.png)
 ## 目前有的檔案：
 ```students_info.json```
 ```json
