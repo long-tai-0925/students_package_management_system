@@ -80,7 +80,7 @@ PM：19:30 ~ 22:30
 領取
 學生宿舍啟
 
-![管理頁面範例](exampleB.png)=576
+![管理頁面範例](exampleB.png)=384
 
 ## 目前有的檔案：
 ```students_info.json```
