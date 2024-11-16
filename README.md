@@ -7,6 +7,8 @@ HTML、JavaScript、Css、Json/MySQL
 ### 管理端
 HTML、JavaScript、Css、Json/MySQL、jsPDF
 
+### 大佬推薦
+vite、nuxt
 
 ## 分兩個網頁
 
